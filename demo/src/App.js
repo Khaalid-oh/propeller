@@ -15,7 +15,7 @@ export default function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Propeller
+          Propeller 2.0
         </a>
       </header>
     </div>
